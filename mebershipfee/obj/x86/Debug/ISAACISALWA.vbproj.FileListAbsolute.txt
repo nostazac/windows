@@ -1,0 +1,18 @@
+C:\Users\HYDRA\AppData\Local\Temporary Projects\ISAACISALWA\bin\Debug\ISAACISALWA.exe
+C:\Users\HYDRA\AppData\Local\Temporary Projects\ISAACISALWA\bin\Debug\ISAACISALWA.pdb
+C:\Users\HYDRA\AppData\Local\Temporary Projects\ISAACISALWA\bin\Debug\ISAACISALWA.xml
+C:\Users\HYDRA\AppData\Local\Temporary Projects\ISAACISALWA\obj\x86\Debug\ISAACISALWA.Form1.resources
+C:\Users\HYDRA\AppData\Local\Temporary Projects\ISAACISALWA\obj\x86\Debug\ISAACISALWA.Resources.resources
+C:\Users\HYDRA\AppData\Local\Temporary Projects\ISAACISALWA\obj\x86\Debug\ISAACISALWA.vbproj.GenerateResource.Cache
+C:\Users\HYDRA\AppData\Local\Temporary Projects\ISAACISALWA\obj\x86\Debug\ISAACISALWA.exe
+C:\Users\HYDRA\AppData\Local\Temporary Projects\ISAACISALWA\obj\x86\Debug\ISAACISALWA.xml
+C:\Users\HYDRA\AppData\Local\Temporary Projects\ISAACISALWA\obj\x86\Debug\ISAACISALWA.pdb
+C:\Users\HYDRA\documents\visual studio 2010\Projects\ISAACISALWA\ISAACISALWA\obj\x86\Debug\ISAACISALWA.exe
+C:\Users\HYDRA\documents\visual studio 2010\Projects\ISAACISALWA\ISAACISALWA\obj\x86\Debug\ISAACISALWA.xml
+C:\Users\HYDRA\documents\visual studio 2010\Projects\ISAACISALWA\ISAACISALWA\obj\x86\Debug\ISAACISALWA.pdb
+C:\Users\HYDRA\documents\visual studio 2010\Projects\ISAACISALWA\ISAACISALWA\bin\Debug\ISAACISALWA.exe
+C:\Users\HYDRA\documents\visual studio 2010\Projects\ISAACISALWA\ISAACISALWA\bin\Debug\ISAACISALWA.pdb
+C:\Users\HYDRA\documents\visual studio 2010\Projects\ISAACISALWA\ISAACISALWA\bin\Debug\ISAACISALWA.xml
+C:\Users\HYDRA\documents\visual studio 2010\Projects\ISAACISALWA\ISAACISALWA\obj\x86\Debug\ISAACISALWA.Form1.resources
+C:\Users\HYDRA\documents\visual studio 2010\Projects\ISAACISALWA\ISAACISALWA\obj\x86\Debug\ISAACISALWA.Resources.resources
+C:\Users\HYDRA\documents\visual studio 2010\Projects\ISAACISALWA\ISAACISALWA\obj\x86\Debug\ISAACISALWA.vbproj.GenerateResource.Cache
